@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://balooaffinity.net/</loc>
+    <lastmod>2016-02-26T01:35:46+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://balooaffinity.net/post/rules/</loc>
+    <lastmod>2016-02-26T01:35:46+01:00</lastmod>
   </url>
   
 </urlset>
